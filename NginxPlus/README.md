@@ -3,6 +3,8 @@ Nginx Plus
 
 This plugin is for the [Nginx Plus `ngx_http_status_module` commercial status module](http://nginx.org/en/docs/http/ngx_http_status_module.html). 
 
+**_This plugin has been deprecated in favour of the [official Nginx plugin](https://support.serverdensity.com/hc/en-us/articles/212543387)_**
+
 Configuration
 ---
 * You must be using [Nginx Plus](http://nginx.com/products/).
